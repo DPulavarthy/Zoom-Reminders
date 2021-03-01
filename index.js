@@ -182,5 +182,3 @@ third.start()
 fourth.start()
 
 // 🔒 This is protected code, see https://kura.gq?to=share for more information.
-
-this.first()
