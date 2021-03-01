@@ -37,6 +37,8 @@ npm i
 
 ❯ Add the links
 
+Rename `links.js.example` to `links.js`.
+
 Open `links.js` and put the zoom links in the according field.
 
 ❯ Run the code.
@@ -44,4 +46,4 @@ Open `links.js` and put the zoom links in the according field.
 npm start
 ```
 
-Note: Do not close the terminal.
+### Note: Do not close the terminal.
