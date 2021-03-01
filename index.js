@@ -65,6 +65,7 @@ this.notify = links => {
         {
             title: `Your 5 Minute Zoom Reminder!`,
             message: `This is your ${links.map(set => set.case).join(`/`)} Reminder!`,
+            icon: `./assets/jonin.png`,
             actions: links.map(set => `Open link for ${set.case}`),
             sound: true,
             wait: true
@@ -94,6 +95,7 @@ this.notify = links => {
                 {
                     title: `Open other link?`,
                     message: `Accidently clicked the wrong link? Click here to open other link.`,
+                    icon: `./assets/jonin.png`,
                     actions: [`Open link for ${other.case}`],
                     sound: false,
                     wait: false
@@ -180,3 +182,5 @@ third.start()
 fourth.start()
 
 // 🔒 This is protected code, see https://kura.gq?to=share for more information.
+
+this.first()

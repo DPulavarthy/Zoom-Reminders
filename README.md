@@ -4,7 +4,7 @@
     </a>
     <a href="https://github.com/DPulavarthy/Zoom-Reminders"
         title="All code regarding Zoom-Reminders is protected.">
-        <img src="zoom.png" alt="Zoom Image" />
+        <img src="assets/zoom.png" alt="Zoom Image" />
     </a>
     <h3 align="center"> 💠 Zoom-Reminders 💠 </h3>
     <p align="center"> System notification for zoom links
