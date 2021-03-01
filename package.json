@@ -1,0 +1,20 @@
+{
+  "name": "zoom-reminders",
+  "version": "1.0.0",
+  "description": "System notification for zoom links.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DPulavarthy/Zoom-Reminders.git"
+  },
+  "author": "Dhanush Pulavarthy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DPulavarthy/Zoom-Reminders/issues"
+  },
+  "homepage": "https://github.com/DPulavarthy/Zoom-Reminders#readme"
+}
